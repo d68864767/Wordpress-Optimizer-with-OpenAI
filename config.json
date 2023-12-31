@@ -1,0 +1,7 @@
+{
+    "openai_api_key": "YOUR_OPENAI_API_KEY",
+    "wordpress_site_url": "YOUR_WORDPRESS_SITE_URL",
+    "wordpress_username": "YOUR_WORDPRESS_USERNAME",
+    "wordpress_password": "YOUR_WORDPRESS_PASSWORD",
+    "post_optimization_limit": 1000
+}
